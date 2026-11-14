@@ -1,34 +1,52 @@
-# Awesome-Employee-Time-Tracking-Logging
+# ⏱️ Awesome-Employee-Time-Tracking-Logging
 
-## Top Employee Time Tracking & Logging Ecosystem
+<div align="center">
 
-**Curated List of SaaS Platforms & Open-Source GitHub Projects**  
-*Focused on Timesheet Approvals, Billable Hours & Self-Hosted Time Tracking*  
-**Last updated: March 2026**
+![Awesome Employee Time Tracking & Logging Banner](./assets/banner.svg)
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Employee Time Tracking & Logging**. These tools help organizations capture hours worked, approve timesheets, and bill clients accurately—covering everything from lightweight timers and project-based tracking to full workforce management suites with GPS, screenshots, and payroll integration.
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Employee-Time-Tracking-Logging/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Employee-Time-Tracking-Logging?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Employee-Time-Tracking-Logging/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Employee-Time-Tracking-Logging?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Employee-Time-Tracking-Logging/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Employee-Time-Tracking-Logging?style=flat-square&color=green" alt="Issues" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Employee-Time-Tracking-Logging/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-**Examples** include Toggl Track, Harvest, Clockify, Hubstaff, Time Doctor, When I Work, Homebase, Kimai, and Leantime (the category leaders).
+**Comprehensive directory of Top Employee Time Tracking, Timesheet Management & Productivity Logging Solutions**  
+*Curated comparison of Enterprise SaaS Suites, Freelancer Billing Tools & Self-Hosted Open-Source Systems*
 
-**Open-source emphasis**: This section highlights every major active project for self-hosted time tracking, open-source timesheet management, and community-driven project time logging—ideal for freelancers, agencies, and organizations seeking data sovereignty and avoiding per-seat pricing that compounds across teams. The open-source landscape is genuinely functional: **Kimai** is the most established self-hosted time tracker , **Leantime** combines project management with time tracking , and **titra** offers modern open-source project time tracking for freelancers and small teams .
+</div>
 
-Contributions welcome! Open an PR to add/update entries. Keep descriptions factual and link to official sites.
+---
 
-## Table of Contents
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saas-products)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+## 🧭 Table of Contents
+- [🔍 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS / Hosted Platforms](#️-saas--hosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [⭐ Star History](#-star-history)
+- [⚖️ Disclaimer](#️-disclaimer)
 
-## Sector Overview & Market Dynamics
+---
 
-The global time tracking and employee attendance software market is estimated at approximately **$6.1B – $6.9B (2025–2026)** and projected to expand past **$21B by 2035** (CAGR ~13.6%–14.2%), propelled by remote/hybrid workforce compliance and automated payroll integration. The sector is **moderately fragmented**: while large HCM/ERP suites (e.g., ADP, UKG, Workday) dominate massive enterprises, the mid-market and SMB tier is actively distributed among independent, competitive SaaS solutions and open-source alternatives rather than a single winner-take-all monopoly.
+## 🔍 Sector Overview & Market Dynamics
 
-## SaaS/Hosted Platforms
+The global **time tracking and employee attendance software market** is valued at approximately **$6.1B – $6.9B (2025–2026)** and projected to surge past **$21B by 2035** at a compound annual growth rate (**CAGR of ~13.6%–14.2%**). Growth is propelled by hybrid workforce governance, strict international labor tracking mandates (such as the EU Working Time Directive and US Fair Labor Standards Act compliance), and the transition toward automated payroll integration.
 
-| Product | Company Scale (Valuation / Revenue) | Pricing (Starting Tier) | Free Tier / Free Trial Limits | Description |
-|---------|-------------------------------------|------------------------|-------------------------------|-------------|
+The sector demonstrates **moderate market fragmentation**:
+- **Enterprise Layer (Consolidated)**: Dominated by comprehensive Human Capital Management (HCM) and ERP suites (e.g., ADP, Workday, UKG, Rippling, Deel) managing unified global payroll, tax, and benefits.
+- **Mid-Market & SMB Layer (Highly Fragmented)**: Characterized by healthy competition among standalone SaaS timers, productivity trackers, and open-source self-hosted point solutions rather than an entrenched, winner-take-all monopoly.
+
+---
+
+## ☁️ SaaS / Hosted Platforms
+
+Below is a curated comparison of leading commercial time tracking and workforce management SaaS platforms, sorted in descending order of **Company Scale (Valuation / Revenue)**:
+
+| Product | 🏢 Company Scale (Valuation / Revenue) | 💰 Pricing (Starting Tier) | 🎁 Free Tier / Free Trial Limits | 📝 Description |
+|---------|----------------------------------------|---------------------------|----------------------------------|----------------|
 | **[When I Work](https://wheniwork.com/)** | **~$1.1B Valuation** (~$35M ARR, $224M funding) | **$2.50/user/month** (Standard Scheduling & Attendance; single location) | **14-day free trial** (full access to all features, no credit card required; no permanent free tier) | Employee scheduling with built-in time clock, mobile clock-in, and attendance tracking designed for hourly workforces. |
 | **[Homebase](https://www.joinhomebase.com/)** | **~$550M–$675M Valuation** ($189M funding) | **$0** (Basic plan); Paid tiers start at **$24.95/location/month** (billed annually) or $30/mo | **Free forever**: 1 physical location, up to 10 employees (time clock, employee scheduling, team messaging, 90-day timesheet history) | Free scheduling and time clock app for local businesses and retail/restaurants, featuring POS and tablet kiosk clock-ins. |
 | **[Harvest](https://www.getharvest.com/)** | **~$150M ARR** (Acquired by Bending Spoons in July 2025) | **$9.00/seat/month** (billed annually, $11/mo billed monthly; base plan) | **Free forever plan**: strictly limited to 1 user and 2 active projects; **30-day free trial** of paid plans | Time tracking with integrated invoicing, billable hourly rates, and project profitability reporting across agencies and consultancies. |
@@ -38,40 +56,63 @@ The global time tracking and employee attendance software market is estimated at
 | **[Toggl Track](https://toggl.com/)** | **~$14M–$33M ARR** (Bootstrapped) | **$9.00/user/month** (Starter plan, billed annually; $10/mo monthly) | **Free forever plan**: limited to up to 3 team members/workspace; **30-day free trial** of paid Premium features | Lightweight, user-friendly timer and timesheet software with one-click desktop/mobile timers, browser extensions, and billable project insights. |
 | **[Buddy Punch](https://buddypunch.com/)** | **~$1M–$5M ARR** (Bootstrapped) | **$19.00/month base fee + $4.99/user/month** (Starter plan, billed annually; $5.99/user monthly) | **14-day free trial** (full access to all features and add-ons, no credit card required; no permanent free tier) | Online punch clock and employee time tracking tool with GPS stamping, geofencing, facial recognition webcam punches, and payroll integrations. |
 
-## Open-Source GitHub Projects
+---
 
-| Project | Star Badge | Description |
-|---------|------------|-------------|
-| **[Kimai](https://github.com/kimai/kimai)** | [![Stars](https://img.shields.io/github/stars/kimai/kimai?style=social&color=white)](https://github.com/kimai/kimai/stargazers) | **The most established open-source time tracker for teams and agencies.** Web-based, self-hosted. Tracks project times with **customer/project/activity hierarchy**, supports **billable and non-billable hours**, and exports reports as HTML/PDF/CSV/XLSX. **Plugin ecosystem** includes shared timesheet approval workflows. Free and open-source (AGPL-3.0). Docker deployment available. **Best for freelancers and agencies wanting a proven self-hosted time tracking solution** without per-seat fees. |
-| **[Leantime](https://github.com/Leantime/leantime)** | [![Stars](https://img.shields.io/github/stars/Leantime/leantime?style=social&color=white)](https://github.com/Leantime/leantime/stargazers) | **Goals-focused project management with integrated time tracking.** Designed for non-project managers (built with ADHD, autism, and dyslexia in mind). Combines task management, timesheets, and reporting in one self-hosted platform. **Best for small teams wanting time tracking embedded in project workflows** rather than a standalone timer. |
-| **[titra](https://github.com/kromitgmbh/titra)** | [![Stars](https://img.shields.io/github/stars/kromitgmbh/titra?style=social&color=white)](https://github.com/kromitgmbh/titra/stargazers) | **Modern open-source project time tracking for freelancers and small teams.** Clean interface with project-based tracking and reporting. Positioned as a lightweight alternative to commercial time trackers. Docker-deployable. **Best for freelancers and small teams wanting a modern, simple self-hosted tracker** . |
-| **[klog](https://github.com/jotaen/klog)** | [![Stars](https://img.shields.io/github/stars/jotaen/klog?style=social&color=white)](https://github.com/jotaen/klog/stargazers) | **Command-line time tracking with human-readable plain-text files.** Track time in a simple text format that works with Git and any editor. **Best for developers and CLI-heavy workflows** wanting version-controllable time logs without a web interface. |
+## 💻 Open-Source GitHub Projects
 
-### Additional Strong Open-Source Options
+Open-source and self-hosted tools provide data sovereignty, complete privacy control, and freedom from per-seat subscription inflation. Below are top repositories sorted by **GitHub Star Count (descending)**:
 
-| Project | Star Badge | Description |
-|---------|------------|-------------|
-| **[TimeSheets (BjoernKW)](https://github.com/BjoernKW/TimeSheets)** | [![Stars](https://img.shields.io/github/stars/BjoernKW/TimeSheets?style=social&color=white)](https://github.com/BjoernKW/TimeSheets/stargazers) | **Self-hosted timesheet application for project reporting.** Java/Spring-based with a web UI. Handles project-based time logging and reporting. **Best for Java teams wanting a straightforward self-hosted timesheet** . |
-| **[team-timesheets](https://github.com/thdk/team-timesheets)** | [![Stars](https://img.shields.io/github/stars/thdk/team-timesheets?style=social&color=white)](https://github.com/thdk/team-timesheets/stargazers) | **Time tracking web app built as a replacement for old-school timesheets.** Simple, focused on team time logging. **Best for teams wanting a minimal, no-frills timesheet app** . |
-
-**Frameworks for building custom systems**: Choose **Kimai** for the most mature self-hosted time tracker with billing and reporting , **Leantime** for time tracking integrated with project management , or **klog** for CLI-based plain-text time logging that works with Git —all without per-seat pricing that scales with team size.
-
-## How to Contribute
-
-1. Fork the repo.
-2. Add/edit entries in `README.md` (follow existing format).
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-4. Submit PR with a short explanation.
-
-Star the repo if you find it useful!
-
-## Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-- Time tracking platforms handle employee work patterns and potentially monitoring data (screenshots, GPS); enforce transparent policies, employee consent, and compliance with applicable labor and privacy regulations. **Monitoring features require clear disclosure.**
-- **Pricing models vary and hidden costs compound.** **Homebase offers a genuine free tier** for one location and up to 10 employees , and **Clockify's free plan is robust with unlimited users** . **Harvest's free plan is limited to 2 projects** , and the company has faced reports of **5x price increases** post-acquisition . **Hubstaff and Time Doctor charge for monitoring features** (screenshots, GPS, productivity ratings) that may raise privacy concerns . **When I Work charges per user with no free tier** but offers transparent $2.50–$5/user/month pricing . **Open-source alternatives eliminate per-seat fees**: Kimai is the most established with billing and reporting , and klog offers a minimalist CLI approach . Validate monitoring requirements, approval workflows, and integration needs against your actual team structure before committing.
+| Project | ⭐ Stars | 🛠️ Tech Stack | 📖 Description |
+|---------|----------|---------------|----------------|
+| **[ActivityWatch](https://github.com/ActivityWatch/activitywatch)** | [![Stars](https://img.shields.io/github/stars/ActivityWatch/activitywatch?style=social&color=white)](https://github.com/ActivityWatch/activitywatch/stargazers) | Python, Vue, Rust | **The most popular open-source automated time and activity tracker.** Runs locally on your machine without third-party servers, tracking active windows, application usage, and browser habits with complete user privacy. |
+| **[Leantime](https://github.com/Leantime/leantime)** | [![Stars](https://img.shields.io/github/stars/Leantime/leantime?style=social&color=white)](https://github.com/Leantime/leantime/stargazers) | PHP, JavaScript | **Goals-focused project management system with integrated time logging.** Designed with non-project managers, ADHD, and small teams in mind—combining task kanbans, milestone roadmaps, and timesheet logging into one platform. |
+| **[solidtime](https://github.com/solidtime-io/solidtime)** | [![Stars](https://img.shields.io/github/stars/solidtime-io/solidtime?style=social&color=white)](https://github.com/solidtime-io/solidtime/stargazers) | PHP (Laravel), Vue.js | **Modern, beautifully crafted open-source time tracking application.** Positioned as a modern, self-hostable alternative to Clockify and Toggl, featuring multi-organization support, project time tracking, billing rates, and client management. |
+| **[Kimai](https://github.com/kimai/kimai)** | [![Stars](https://img.shields.io/github/stars/kimai/kimai?style=social&color=white)](https://github.com/kimai/kimai/stargazers) | PHP (Symfony), Twig | **Mature, full-featured web-based multi-user timesheet application.** Features customer/project/activity hierarchies, billable hour tracking, multi-currency invoicing, export to PDF/Excel, and approval plugins for agencies and enterprises. |
+| **[Wakapi](https://github.com/muety/wakapi)** | [![Stars](https://img.shields.io/github/stars/muety/wakapi?style=social&color=white)](https://github.com/muety/wakapi/stargazers) | Go, SQLite/PostgreSQL | **Minimalist, self-hosted WakaTime-compatible coding time tracker.** Gathers coding telemetry directly from code editor plugins (VS Code, JetBrains) to generate detailed programming statistics and work summaries automatically. |
+| **[Watson](https://github.com/jazzband/Watson)** | [![Stars](https://img.shields.io/github/stars/jazzband/Watson?style=social&color=white)](https://github.com/jazzband/Watson/stargazers) | Python (CLI) | **Lightweight, fast CLI time tracker.** Track project and tag times directly from your terminal, generate clean reporting summaries, and sync tracking logs across team machines effortlessly. |
+| **[Timewarrior](https://github.com/GothenburgBitFactory/timewarrior)** | [![Stars](https://img.shields.io/github/stars/GothenburgBitFactory/timewarrior?style=social&color=white)](https://github.com/GothenburgBitFactory/timewarrior/stargazers) | C++ (CLI) | **Command-line time tracking and reporting utility from the creators of Taskwarrior.** Tracks elapsed time, supports ad-hoc categorization and tags, and outputs interval reports. |
+| **[klog](https://github.com/jotaen/klog)** | [![Stars](https://img.shields.io/github/stars/jotaen/klog?style=social&color=white)](https://github.com/jotaen/klog/stargazers) | Go (CLI) | **Command-line time tracker with plain-text file storage.** Version-controllable with Git, human-readable file formats, and concise CLI commands for logging intervals and calculating totals. |
+| **[titra](https://github.com/titraio/titra)** | [![Stars](https://img.shields.io/github/stars/titraio/titra?style=social&color=white)](https://github.com/titraio/titra/stargazers) | JavaScript (Node, Meteor) | **Modern open-source project time tracking for freelancers and teams.** Docker-deployable self-hosted web app with lightweight project management, timer widgets, and timesheet reports. |
+| **[team-timesheets](https://github.com/thdk/team-timesheets)** | [![Stars](https://img.shields.io/github/stars/thdk/team-timesheets?style=social&color=white)](https://github.com/thdk/team-timesheets/stargazers) | Ruby on Rails | **Simple, minimalist timesheet web app.** Built as a clean and lightweight replacement for legacy spreadsheet time logging for remote and distributed teams. |
+| **[TimeSheets](https://github.com/BjoernKW/TimeSheets)** | [![Stars](https://img.shields.io/github/stars/BjoernKW/TimeSheets?style=social&color=white)](https://github.com/BjoernKW/TimeSheets/stargazers) | Java, Spring Boot | **Self-hosted project timesheet application.** Straightforward timesheet submission and project reporting suited for Java environments. |
 
 ---
 
-**Made for freelancers, agency owners, operations managers, and teams building time tracking workflows.**  
-Let's make employee time tracking and logging more open, transparent, and team-friendly.
+## 🤝 How to Contribute
+
+Contributions are warmly welcomed! Help keep this directory fresh, accurate, and comprehensive:
+
+1. 🍴 **Fork the repo**.
+2. 🌿 **Create a feature branch**: `git checkout -b feature/add-new-tool`.
+3. 📝 **Add or update entries** in `README.md` following the established table structure (include specific starting pricing and verified free tier caps).
+4. 🚀 **Submit a Pull Request** with a concise description of your changes.
+
+---
+
+## 💖 Support
+
+If you found this list helpful, consider showing your support:
+- ⭐ **Star this repository** to help others discover it!
+- 🍴 **Fork and share** it with colleagues, agency peers, and teams.
+- ☕ **Buy a coffee & sponsor ongoing maintenance:**  
+  [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/ishandutta2007)
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Employee-Time-Tracking-Logging&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Employee-Time-Tracking-Logging&type=date&legend=top-left)
+
+---
+
+## ⚖️ Disclaimer
+
+- This is a **community-curated directory** provided for informational purposes only—not an official product endorsement.
+- Time tracking software involves employee workplace data and potential monitoring technologies (such as GPS geofencing, keystroke frequency, or automated screenshot capture). Organizations must adhere to local labor laws, guarantee transparent usage policies, and respect privacy compliance standards (e.g., GDPR, CCPA).
+- Pricing structures, feature tiers, and free trial conditions are subject to vendor updates. Always confirm current plan specifications directly on the official vendor websites before purchasing.
+
+---
+
+<div align="center">
+  <sub>Built with ❤️ for freelancers, agency leads, ops managers, and engineering teams everywhere.</sub>
+</div>
