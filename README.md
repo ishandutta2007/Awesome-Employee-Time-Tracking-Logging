@@ -1,6 +1,6 @@
 # Awesome-Employee-Time-Tracking-Logging
 
-# Top Employee Time Tracking & Logging Ecosystem
+## Top Employee Time Tracking & Logging Ecosystem
 
 **Curated List of SaaS Platforms & Open-Source GitHub Projects**  
 *Focused on Timesheet Approvals, Billable Hours & Self-Hosted Time Tracking*  
