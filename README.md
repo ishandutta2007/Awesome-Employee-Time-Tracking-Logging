@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Employee-Time-Tracking-Logging/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Employee-Time-Tracking-Logging?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Employee-Time-Tracking-Logging/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Employee-Time-Tracking-Logging?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Employee-Time-Tracking-Logging/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Employee-Time-Tracking-Logging?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Employee-Time-Tracking-Logging/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Employee-Time-Tracking-Logging?style=flat-square&color=green" alt="Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Employee-Time-Tracking-Logging/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square" alt="License" /></a>
@@ -60,9 +60,9 @@ Below is a curated comparison of leading commercial time tracking and workforce 
 
 ## 💻 Open-Source GitHub Projects
 
-Open-source and self-hosted tools provide data sovereignty, complete privacy control, and freedom from per-seat subscription inflation. Below are top repositories sorted by **GitHub Star Count (descending)**:
+Open-source and self-hosted tools provide data sovereignty, complete privacy control, and freedom from per-seat subscription inflation. Below are top repositories sorted by **GitHub Stars_Count (descending)**:
 
-| Project | ⭐ Stars | 🛠️ Tech Stack | 📖 Description |
+| Project | ⭐ GitHub_Stars | 🛠️ Tech Stack | 📖 Description |
 |---------|----------|---------------|----------------|
 | **[ActivityWatch](https://github.com/ActivityWatch/activitywatch)** | [![Stars](https://img.shields.io/github/stars/ActivityWatch/activitywatch?style=social&color=white)](https://github.com/ActivityWatch/activitywatch/stargazers) | Python, Vue, Rust | **The most popular open-source automated time and activity tracker.** Runs locally on your machine without third-party servers, tracking active windows, application usage, and browser habits with complete user privacy. |
 | **[Leantime](https://github.com/Leantime/leantime)** | [![Stars](https://img.shields.io/github/stars/Leantime/leantime?style=social&color=white)](https://github.com/Leantime/leantime/stargazers) | PHP, JavaScript | **Goals-focused project management system with integrated time logging.** Designed with non-project managers, ADHD, and small teams in mind—combining task kanbans, milestone roadmaps, and timesheet logging into one platform. |
